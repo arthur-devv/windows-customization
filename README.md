@@ -20,9 +20,9 @@ A clean, keyboard-driven Windows 11 setup built around tiling window management 
 <div align="center">
   <img src="screenshots/desktop1.png" alt="Desktop preview" width="800"/>
 
-  <img src="screenshots/desktop2.png" alt="Desktop preview" width="800"/>
+  <img src="screenshots/desktop2.webp" alt="Desktop preview" width="800"/>
 
-  <img src="screenshots/desktop3.png" alt="Desktop preview" width="800"/>
+  <img src="screenshots/desktop3.webp" alt="Desktop preview" width="800"/>
 
   
 </div>
