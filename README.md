@@ -105,7 +105,7 @@ windows-customization/
 ---
 
 ## 🗺️ Roadmap
-
+- [ ] Add all the code
 - [ ] Flow Launcher theme and settings
 - [ ] Rainmeter widgets
 - [ ] PowerShell profile and prompt setup
