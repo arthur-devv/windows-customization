@@ -18,7 +18,7 @@ A clean, keyboard-driven Windows 11 setup built around tiling window management 
 
 <!-- Add your screenshots here -->
 <div align="center">
-  <img src="screenshots/desktop.png" alt="Desktop preview" width="800"/>
+  <img src="screenshots/desktop1.png" alt="Desktop preview" width="800"/>
 </div>
 
 > More screenshots in the [`screenshots/`](screenshots) folder.
